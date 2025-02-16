@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oOqwq\\Desktop\\Github repository\\CrimesonCodeHackathon2025\\RectangularGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7084E0F9-5112-4908-B718-7715D65C07BF}|RectangularGenerator\\RectangularGenerator.vcxproj|C:\\Users\\oOqwq\\Desktop\\Github repository\\CrimesonCodeHackathon2025\\RectangularGenerator\\RectangularGenerator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7084E0F9-5112-4908-B718-7715D65C07BF}|RectangularGenerator\\RectangularGenerator.vcxproj|solutionrelative:RectangularGenerator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084E0F9-5112-4908-B718-7715D65C07BF}|RectangularGenerator\\RectangularGenerator.vcxproj|C:\\Users\\oOqwq\\Desktop\\Github repository\\CrimesonCodeHackathon2025\\RectangularGenerator\\RectangularGenerator\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7084E0F9-5112-4908-B718-7715D65C07BF}|RectangularGenerator\\RectangularGenerator.vcxproj|solutionrelative:RectangularGenerator\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7084E0F9-5112-4908-B718-7715D65C07BF}|RectangularGenerator\\RectangularGenerator.vcxproj|C:\\Users\\oOqwq\\Desktop\\Github repository\\CrimesonCodeHackathon2025\\RectangularGenerator\\RectangularGenerator\\header.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7084E0F9-5112-4908-B718-7715D65C07BF}|RectangularGenerator\\RectangularGenerator.vcxproj|solutionrelative:RectangularGenerator\\header.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "header.c",
+              "DocumentMoniker": "C:\\Users\\oOqwq\\Desktop\\Github repository\\CrimesonCodeHackathon2025\\RectangularGenerator\\RectangularGenerator\\header.c",
+              "RelativeDocumentMoniker": "RectangularGenerator\\header.c",
+              "ToolTip": "C:\\Users\\oOqwq\\Desktop\\Github repository\\CrimesonCodeHackathon2025\\RectangularGenerator\\RectangularGenerator\\header.c",
+              "RelativeToolTip": "RectangularGenerator\\header.c",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-16T02:03:17.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "header.h",
+              "DocumentMoniker": "C:\\Users\\oOqwq\\Desktop\\Github repository\\CrimesonCodeHackathon2025\\RectangularGenerator\\RectangularGenerator\\header.h",
+              "RelativeDocumentMoniker": "RectangularGenerator\\header.h",
+              "ToolTip": "C:\\Users\\oOqwq\\Desktop\\Github repository\\CrimesonCodeHackathon2025\\RectangularGenerator\\RectangularGenerator\\header.h",
+              "RelativeToolTip": "RectangularGenerator\\header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-16T02:03:07.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\oOqwq\\Desktop\\Github repository\\CrimesonCodeHackathon2025\\RectangularGenerator\\RectangularGenerator\\main.c",
+              "RelativeDocumentMoniker": "RectangularGenerator\\main.c",
+              "ToolTip": "C:\\Users\\oOqwq\\Desktop\\Github repository\\CrimesonCodeHackathon2025\\RectangularGenerator\\RectangularGenerator\\main.c",
+              "RelativeToolTip": "RectangularGenerator\\main.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-16T02:01:34.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

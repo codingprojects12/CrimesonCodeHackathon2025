@@ -1,0 +1,5 @@
+﻿  header.c
+C:\Users\oOqwq\Desktop\Github repository\CrimesonCodeHackathon2025\RectangularGenerator\RectangularGenerator\header.c(12,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\oOqwq\Desktop\Github repository\CrimesonCodeHackathon2025\RectangularGenerator\RectangularGenerator\header.c(15,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+  Generating Code...

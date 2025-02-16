@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\oOqwq\Desktop\Github repository\CrimesonCodeHackathon2025\RectangularGenerator\RectangularGenerator\main.c(14,3): warning C4013: 'system' undefined; assuming extern returning int
+  RectangularGenerator.vcxproj -> C:\Users\oOqwq\Desktop\Github repository\CrimesonCodeHackathon2025\RectangularGenerator\x64\Debug\RectangularGenerator.exe
